@@ -11,7 +11,7 @@ Usage of Brute-Forc-Twitter for attacking targets without prior mutual consent i
 
 ### Usage:
 ```
-git clone https://github.com/sadamshr3be/Hack-Twitter
+git clone https://github.com/sirwanmd/twithack
 pip3 install mechanize
 pip3 install proxylist
 pip3 install argparse
